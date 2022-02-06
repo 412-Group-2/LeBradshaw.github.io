@@ -1,2 +1,3 @@
-# LeBradshaw.github.io
-project 2
+layout: home
+title: "Group2Project"
+permalink: https://412-group-2.github.io/LeBradshaw.github.io/
