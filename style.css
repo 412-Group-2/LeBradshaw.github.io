@@ -1,5 +1,10 @@
+.content {
+  max-width: 500px;
+  margin: auto;
+}
+
 body {
-background-color: green;
+background-color: pink;
 }
 
 p {
